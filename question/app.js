@@ -145,6 +145,7 @@ console.log(numbers);
 // Section6-Q5
 let mixed = [4, '2', 5, '8', '9', 0, 1];
 
+
 // 配列の各要素を処理する
 for (let item of mixed) {
   if (typeof item === 'number') {
